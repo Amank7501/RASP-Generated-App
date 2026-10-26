@@ -1,0 +1,1550 @@
+{
+  "service:list_grievance_status_historys_svc_lzt" : {
+    "irId" : "list_grievance_status_historys_svc_lzt",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.listGrievanceStatusHistorys",
+    "zone" : 1,
+    "hash" : "08b2b029",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:get_admin_by_id_ctrl_fs7" : {
+    "irId" : "get_admin_by_id_ctrl_fs7",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.getAdminById",
+    "zone" : 1,
+    "hash" : "205344e6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-list_grievances_ctrl_tyj" : {
+    "irId" : "hook-after-list_grievances_ctrl_tyj",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.afterListGrievances",
+    "zone" : 2,
+    "hash" : "5b60d58a",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "repository:grievance_count_by_status_74a" : {
+    "irId" : "grievance_count_by_status_74a",
+    "file" : "src/main/java/com/example/app/repository/GrievanceRepository.java",
+    "symbol" : "GrievanceRepository.countByStatus",
+    "zone" : 1,
+    "hash" : "d3bd5558",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-create_grievance_status_history_svc_rny" : {
+    "irId" : "hook-before-create_grievance_status_history_svc_rny",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.beforeCreateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "2cb24da9",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:update_admin_ctrl_hhs" : {
+    "irId" : "update_admin_ctrl_hhs",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.updateAdmin",
+    "zone" : 1,
+    "hash" : "53e2a3f6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:get_grievance_by_id_svc_ee6" : {
+    "irId" : "get_grievance_by_id_svc_ee6",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.getGrievanceById",
+    "zone" : 1,
+    "hash" : "49d6a831",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:get_user_by_id_svc_426" : {
+    "irId" : "get_user_by_id_svc_426",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.getUserById",
+    "zone" : 1,
+    "hash" : "bbf84213",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-update_admin_ctrl_hhs" : {
+    "irId" : "hook-before-update_admin_ctrl_hhs",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.beforeUpdateAdmin",
+    "zone" : 2,
+    "hash" : "da40b527",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:list_grievances_ctrl_tyj" : {
+    "irId" : "list_grievances_ctrl_tyj",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.listGrievances",
+    "zone" : 1,
+    "hash" : "6ce84d23",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:ctrl_search_filter_grievances_001_35s" : {
+    "irId" : "ctrl_search_filter_grievances_001_35s",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.searchAndFilterGrievances",
+    "zone" : 1,
+    "hash" : "94f469c3",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-get_grievance_status_history_by_id_svc_ycy" : {
+    "irId" : "hook-before-get_grievance_status_history_by_id_svc_ycy",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.beforeGetGrievanceStatusHistoryById",
+    "zone" : 2,
+    "hash" : "6b928bea",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-delete_admin_svc_82v" : {
+    "irId" : "hook-before-delete_admin_svc_82v",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.beforeDeleteAdmin",
+    "zone" : 2,
+    "hash" : "412fc9ad",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-get_admin_by_id_ctrl_fs7" : {
+    "irId" : "hook-after-get_admin_by_id_ctrl_fs7",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.afterGetAdminById",
+    "zone" : 2,
+    "hash" : "8c25e6c1",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-create_grievance_attachment_ctrl_0h9" : {
+    "irId" : "hook-before-create_grievance_attachment_ctrl_0h9",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.beforeCreateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "894da01e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-update_user_svc_e00" : {
+    "irId" : "hook-before-update_user_svc_e00",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.beforeUpdateUser",
+    "zone" : 2,
+    "hash" : "c0a24101",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-get_grievance_attachment_by_id_svc_sk8" : {
+    "irId" : "hook-after-get_grievance_attachment_by_id_svc_sk8",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.afterGetGrievanceAttachmentById",
+    "zone" : 2,
+    "hash" : "469e9d83",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-get_grievance_by_id_ctrl_8ra" : {
+    "irId" : "hook-before-get_grievance_by_id_ctrl_8ra",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.beforeGetGrievanceById",
+    "zone" : 2,
+    "hash" : "3f93daef",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-delete_grievance_ctrl_v02" : {
+    "irId" : "hook-after-delete_grievance_ctrl_v02",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.afterDeleteGrievance",
+    "zone" : 2,
+    "hash" : "4d7aa0e9",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-create_grievance_svc_bhp" : {
+    "irId" : "hook-after-create_grievance_svc_bhp",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.afterCreateGrievance",
+    "zone" : 2,
+    "hash" : "d178ac77",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-update_grievance_ctrl_ujs" : {
+    "irId" : "hook-after-update_grievance_ctrl_ujs",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.afterUpdateGrievance",
+    "zone" : 2,
+    "hash" : "24dea919",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-update_admin_svc_mr4" : {
+    "irId" : "hook-before-update_admin_svc_mr4",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.beforeUpdateAdmin",
+    "zone" : 2,
+    "hash" : "d8497c41",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-delete_user_svc_m56" : {
+    "irId" : "hook-before-delete_user_svc_m56",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.beforeDeleteUser",
+    "zone" : 2,
+    "hash" : "5ef88533",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:update_grievance_status_history_ctrl_p87" : {
+    "irId" : "update_grievance_status_history_ctrl_p87",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.updateGrievanceStatusHistory",
+    "zone" : 1,
+    "hash" : "70bc6312",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-delete_grievance_ctrl_v02" : {
+    "irId" : "hook-before-delete_grievance_ctrl_v02",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.beforeDeleteGrievance",
+    "zone" : 2,
+    "hash" : "8d402032",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-delete_admin_ctrl_p9z" : {
+    "irId" : "hook-after-delete_admin_ctrl_p9z",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.afterDeleteAdmin",
+    "zone" : 2,
+    "hash" : "41f3e7cc",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-create_grievance_attachment_ctrl_0h9" : {
+    "irId" : "hook-after-create_grievance_attachment_ctrl_0h9",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.afterCreateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "07d2d580",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-list_grievance_status_historys_svc_lzt" : {
+    "irId" : "hook-before-list_grievance_status_historys_svc_lzt",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.beforeListGrievanceStatusHistorys",
+    "zone" : 2,
+    "hash" : "8089db19",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-list_admins_ctrl_vc2" : {
+    "irId" : "hook-before-list_admins_ctrl_vc2",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.beforeListAdmins",
+    "zone" : 2,
+    "hash" : "06ffee6e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-create_admin_svc_or7" : {
+    "irId" : "hook-before-create_admin_svc_or7",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.beforeCreateAdmin",
+    "zone" : 2,
+    "hash" : "62948dac",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-update_grievance_status_history_ctrl_p87" : {
+    "irId" : "hook-after-update_grievance_status_history_ctrl_p87",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.afterUpdateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "211ff1fa",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:ctrl_get_dashboard_summary_2a3" : {
+    "irId" : "ctrl_get_dashboard_summary_2a3",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.getDashboardSummary",
+    "zone" : 1,
+    "hash" : "16b4432e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-get_grievance_by_id_svc_ee6" : {
+    "irId" : "hook-before-get_grievance_by_id_svc_ee6",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.beforeGetGrievanceById",
+    "zone" : 2,
+    "hash" : "b63bafa7",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-delete_grievance_attachment_svc_3ps" : {
+    "irId" : "hook-after-delete_grievance_attachment_svc_3ps",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.afterDeleteGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "812334ca",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-get_grievance_attachment_by_id_svc_sk8" : {
+    "irId" : "hook-before-get_grievance_attachment_by_id_svc_sk8",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.beforeGetGrievanceAttachmentById",
+    "zone" : 2,
+    "hash" : "efa09fd5",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:delete_grievance_attachment_ctrl_muc" : {
+    "irId" : "delete_grievance_attachment_ctrl_muc",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.deleteGrievanceAttachment",
+    "zone" : 1,
+    "hash" : "791b2d37",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:svc_update_user_profile_validation_790" : {
+    "irId" : "svc_update_user_profile_validation_790",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.updateUserProfile",
+    "zone" : 1,
+    "hash" : "f3e16bd0",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-update_grievance_svc_px2" : {
+    "irId" : "hook-before-update_grievance_svc_px2",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.beforeUpdateGrievance",
+    "zone" : 2,
+    "hash" : "01382447",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-list_grievance_status_historys_ctrl_3jt" : {
+    "irId" : "hook-before-list_grievance_status_historys_ctrl_3jt",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.beforeListGrievanceStatusHistorys",
+    "zone" : 2,
+    "hash" : "8089db19",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:update_grievance_status_history_svc_noo" : {
+    "irId" : "update_grievance_status_history_svc_noo",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.updateGrievanceStatusHistory",
+    "zone" : 1,
+    "hash" : "715873b9",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-delete_grievance_status_history_ctrl_a74" : {
+    "irId" : "hook-after-delete_grievance_status_history_ctrl_a74",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.afterDeleteGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "f1ebaf66",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-get_grievance_by_id_ctrl_8ra" : {
+    "irId" : "hook-after-get_grievance_by_id_ctrl_8ra",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.afterGetGrievanceById",
+    "zone" : 2,
+    "hash" : "46c2bed0",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:get_grievance_dashboard_statistics_ik4" : {
+    "irId" : "get_grievance_dashboard_statistics_ik4",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.getGrievanceDashboardStatistics",
+    "zone" : 1,
+    "hash" : "e07e12e6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-delete_admin_svc_82v" : {
+    "irId" : "hook-after-delete_admin_svc_82v",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.afterDeleteAdmin",
+    "zone" : 2,
+    "hash" : "22e0f98e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:delete_admin_ctrl_p9z" : {
+    "irId" : "delete_admin_ctrl_p9z",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.deleteAdmin",
+    "zone" : 1,
+    "hash" : "b4cc6ede",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-get_user_by_id_ctrl_6pf" : {
+    "irId" : "hook-before-get_user_by_id_ctrl_6pf",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.beforeGetUserById",
+    "zone" : 2,
+    "hash" : "e5ebbb62",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:list_users_ctrl_5bh" : {
+    "irId" : "list_users_ctrl_5bh",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.listUsers",
+    "zone" : 1,
+    "hash" : "1f454934",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-list_grievances_svc_cz9" : {
+    "irId" : "hook-after-list_grievances_svc_cz9",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.afterListGrievances",
+    "zone" : 2,
+    "hash" : "5b60d58a",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:create_grievance_ctrl_sbv" : {
+    "irId" : "create_grievance_ctrl_sbv",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.createGrievance",
+    "zone" : 1,
+    "hash" : "7f4f89eb",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-get_grievance_attachment_by_id_ctrl_dl4" : {
+    "irId" : "hook-after-get_grievance_attachment_by_id_ctrl_dl4",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.afterGetGrievanceAttachmentById",
+    "zone" : 2,
+    "hash" : "38957bff",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:update_grievance_ctrl_ujs" : {
+    "irId" : "update_grievance_ctrl_ujs",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.updateGrievance",
+    "zone" : 1,
+    "hash" : "b5843bd9",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:get_grievance_status_history_by_id_svc_ycy" : {
+    "irId" : "get_grievance_status_history_by_id_svc_ycy",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.getGrievanceStatusHistoryById",
+    "zone" : 1,
+    "hash" : "b2462017",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-list_users_svc_s6j" : {
+    "irId" : "hook-after-list_users_svc_s6j",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.afterListUsers",
+    "zone" : 2,
+    "hash" : "b734b73a",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:delete_user_svc_m56" : {
+    "irId" : "delete_user_svc_m56",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.deleteUser",
+    "zone" : 1,
+    "hash" : "57387f77",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:get_user_by_id_ctrl_6pf" : {
+    "irId" : "get_user_by_id_ctrl_6pf",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.getUserById",
+    "zone" : 1,
+    "hash" : "af8d52d1",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:create_user_ctrl_ja4" : {
+    "irId" : "create_user_ctrl_ja4",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.createUser",
+    "zone" : 1,
+    "hash" : "47094ca2",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:grievance_get_details_with_history_4zz" : {
+    "irId" : "grievance_get_details_with_history_4zz",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.getGrievanceDetailsWithHistory",
+    "zone" : 1,
+    "hash" : "297886c5",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-delete_grievance_attachment_ctrl_muc" : {
+    "irId" : "hook-before-delete_grievance_attachment_ctrl_muc",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.beforeDeleteGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "7b6328d6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:list_users_svc_s6j" : {
+    "irId" : "list_users_svc_s6j",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.listUsers",
+    "zone" : 1,
+    "hash" : "51b49a1d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:update_user_svc_e00" : {
+    "irId" : "update_user_svc_e00",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.updateUser",
+    "zone" : 1,
+    "hash" : "3fbd068a",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:update_admin_svc_mr4" : {
+    "irId" : "update_admin_svc_mr4",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.updateAdmin",
+    "zone" : 1,
+    "hash" : "ee84d551",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-update_grievance_ctrl_ujs" : {
+    "irId" : "hook-before-update_grievance_ctrl_ujs",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.beforeUpdateGrievance",
+    "zone" : 2,
+    "hash" : "20477212",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-delete_grievance_svc_hij" : {
+    "irId" : "hook-after-delete_grievance_svc_hij",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.afterDeleteGrievance",
+    "zone" : 2,
+    "hash" : "638a5c63",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-list_grievance_status_historys_svc_lzt" : {
+    "irId" : "hook-after-list_grievance_status_historys_svc_lzt",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.afterListGrievanceStatusHistorys",
+    "zone" : 2,
+    "hash" : "d8af28c1",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-list_grievance_attachments_ctrl_zhe" : {
+    "irId" : "hook-before-list_grievance_attachments_ctrl_zhe",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.beforeListGrievanceAttachments",
+    "zone" : 2,
+    "hash" : "67b2b052",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:create_admin_svc_or7" : {
+    "irId" : "create_admin_svc_or7",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.createAdmin",
+    "zone" : 1,
+    "hash" : "3e22e30e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-delete_user_ctrl_ea2" : {
+    "irId" : "hook-before-delete_user_ctrl_ea2",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.beforeDeleteUser",
+    "zone" : 2,
+    "hash" : "aebc8d08",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:ctrl_update_grievance_with_resolution_mwl" : {
+    "irId" : "ctrl_update_grievance_with_resolution_mwl",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.updateGrievanceWithResolution",
+    "zone" : 1,
+    "hash" : "23c9f6f0",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:create_user_svc_rh4" : {
+    "irId" : "create_user_svc_rh4",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.createUser",
+    "zone" : 1,
+    "hash" : "5c74fa9c",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:delete_admin_svc_82v" : {
+    "irId" : "delete_admin_svc_82v",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.deleteAdmin",
+    "zone" : 1,
+    "hash" : "c5c594af",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:update_grievance_attachment_svc_980" : {
+    "irId" : "update_grievance_attachment_svc_980",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.updateGrievanceAttachment",
+    "zone" : 1,
+    "hash" : "92a7606e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:list_grievance_status_historys_ctrl_3jt" : {
+    "irId" : "list_grievance_status_historys_ctrl_3jt",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.listGrievanceStatusHistorys",
+    "zone" : 1,
+    "hash" : "9e3432bf",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-get_admin_by_id_svc_rpv" : {
+    "irId" : "hook-before-get_admin_by_id_svc_rpv",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.beforeGetAdminById",
+    "zone" : 2,
+    "hash" : "60c771c4",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-get_user_by_id_svc_426" : {
+    "irId" : "hook-before-get_user_by_id_svc_426",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.beforeGetUserById",
+    "zone" : 2,
+    "hash" : "5f3ff602",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-list_grievance_attachments_svc_is4" : {
+    "irId" : "hook-after-list_grievance_attachments_svc_is4",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.afterListGrievanceAttachments",
+    "zone" : 2,
+    "hash" : "8397d1a0",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-create_grievance_status_history_ctrl_n7s" : {
+    "irId" : "hook-after-create_grievance_status_history_ctrl_n7s",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.afterCreateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "673a65d6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-get_grievance_attachment_by_id_ctrl_dl4" : {
+    "irId" : "hook-before-get_grievance_attachment_by_id_ctrl_dl4",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.beforeGetGrievanceAttachmentById",
+    "zone" : 2,
+    "hash" : "de778699",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:create_admin_ctrl_i3a" : {
+    "irId" : "create_admin_ctrl_i3a",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.createAdmin",
+    "zone" : 1,
+    "hash" : "2d0c42cb",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-update_user_ctrl_068" : {
+    "irId" : "hook-after-update_user_ctrl_068",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.afterUpdateUser",
+    "zone" : 2,
+    "hash" : "2a9e094d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-create_grievance_attachment_svc_51f" : {
+    "irId" : "hook-before-create_grievance_attachment_svc_51f",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.beforeCreateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "e36436c3",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:create_grievance_attachment_svc_51f" : {
+    "irId" : "create_grievance_attachment_svc_51f",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.createGrievanceAttachment",
+    "zone" : 1,
+    "hash" : "9f5b2fa3",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-update_grievance_status_history_ctrl_p87" : {
+    "irId" : "hook-before-update_grievance_status_history_ctrl_p87",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.beforeUpdateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "8b45fde2",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-create_grievance_status_history_svc_rny" : {
+    "irId" : "hook-after-create_grievance_status_history_svc_rny",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.afterCreateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "0ce9b5cf",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:delete_grievance_attachment_svc_3ps" : {
+    "irId" : "delete_grievance_attachment_svc_3ps",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.deleteGrievanceAttachment",
+    "zone" : 1,
+    "hash" : "16b3902d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-delete_grievance_attachment_ctrl_muc" : {
+    "irId" : "hook-after-delete_grievance_attachment_ctrl_muc",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.afterDeleteGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "3e18bae7",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "repository:g_find_by_user_id_list_qwf" : {
+    "irId" : "g_find_by_user_id_list_qwf",
+    "file" : "src/main/java/com/example/app/repository/GrievanceRepository.java",
+    "symbol" : "GrievanceRepository.findByUserId",
+    "zone" : 1,
+    "hash" : "43fc2e61",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-get_admin_by_id_svc_rpv" : {
+    "irId" : "hook-after-get_admin_by_id_svc_rpv",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.afterGetAdminById",
+    "zone" : 2,
+    "hash" : "3fa7bba4",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-list_admins_svc_41m" : {
+    "irId" : "hook-before-list_admins_svc_41m",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.beforeListAdmins",
+    "zone" : 2,
+    "hash" : "06ffee6e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-delete_grievance_attachment_svc_3ps" : {
+    "irId" : "hook-before-delete_grievance_attachment_svc_3ps",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.beforeDeleteGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "d5d388e2",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:grievance_retrieve_details_with_history_xbo" : {
+    "irId" : "grievance_retrieve_details_with_history_xbo",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.retrieveGrievanceDetailsWithHistory",
+    "zone" : 1,
+    "hash" : "7547bde5",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:svc_submit_grievance_with_attachments_hv7" : {
+    "irId" : "svc_submit_grievance_with_attachments_hv7",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.submitGrievanceWithAttachments",
+    "zone" : 1,
+    "hash" : "31a7096d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-delete_grievance_status_history_svc_77d" : {
+    "irId" : "hook-before-delete_grievance_status_history_svc_77d",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.beforeDeleteGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "421f5cfc",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-get_user_by_id_svc_426" : {
+    "irId" : "hook-after-get_user_by_id_svc_426",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.afterGetUserById",
+    "zone" : 2,
+    "hash" : "20272a4d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-list_grievance_status_historys_ctrl_3jt" : {
+    "irId" : "hook-after-list_grievance_status_historys_ctrl_3jt",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.afterListGrievanceStatusHistorys",
+    "zone" : 2,
+    "hash" : "d8af28c1",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-get_grievance_by_id_svc_ee6" : {
+    "irId" : "hook-after-get_grievance_by_id_svc_ee6",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.afterGetGrievanceById",
+    "zone" : 2,
+    "hash" : "fb325df7",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-update_grievance_svc_px2" : {
+    "irId" : "hook-after-update_grievance_svc_px2",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.afterUpdateGrievance",
+    "zone" : 2,
+    "hash" : "2e01d180",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:list_admins_svc_41m" : {
+    "irId" : "list_admins_svc_41m",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.listAdmins",
+    "zone" : 1,
+    "hash" : "81a05b18",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "repository:a_exists_by_email_0rr" : {
+    "irId" : "a_exists_by_email_0rr",
+    "file" : "src/main/java/com/example/app/repository/AdminRepository.java",
+    "symbol" : "AdminRepository.existsByEmail",
+    "zone" : 1,
+    "hash" : "3880e5d4",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-list_users_ctrl_5bh" : {
+    "irId" : "hook-before-list_users_ctrl_5bh",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.beforeListUsers",
+    "zone" : 2,
+    "hash" : "1cc83613",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:delete_grievance_svc_hij" : {
+    "irId" : "delete_grievance_svc_hij",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.deleteGrievance",
+    "zone" : 1,
+    "hash" : "47aa94dc",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:list_grievance_attachments_svc_is4" : {
+    "irId" : "list_grievance_attachments_svc_is4",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.listGrievanceAttachments",
+    "zone" : 1,
+    "hash" : "e55352b9",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-create_admin_ctrl_i3a" : {
+    "irId" : "hook-after-create_admin_ctrl_i3a",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.afterCreateAdmin",
+    "zone" : 2,
+    "hash" : "4e5c2992",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:get_grievance_status_history_by_id_ctrl_qvt" : {
+    "irId" : "get_grievance_status_history_by_id_ctrl_qvt",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.getGrievanceStatusHistoryById",
+    "zone" : 1,
+    "hash" : "19680595",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:list_grievances_svc_cz9" : {
+    "irId" : "list_grievances_svc_cz9",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.listGrievances",
+    "zone" : 1,
+    "hash" : "5a0a6c05",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:list_user_grievances_svc_9da" : {
+    "irId" : "list_user_grievances_svc_9da",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.listUserGrievances",
+    "zone" : 1,
+    "hash" : "6e65567d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:list_admins_ctrl_vc2" : {
+    "irId" : "list_admins_ctrl_vc2",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.listAdmins",
+    "zone" : 1,
+    "hash" : "98ea9f89",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-delete_admin_ctrl_p9z" : {
+    "irId" : "hook-before-delete_admin_ctrl_p9z",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.beforeDeleteAdmin",
+    "zone" : 2,
+    "hash" : "87e69644",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-update_grievance_attachment_svc_980" : {
+    "irId" : "hook-before-update_grievance_attachment_svc_980",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.beforeUpdateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "d01be15a",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-delete_grievance_svc_hij" : {
+    "irId" : "hook-before-delete_grievance_svc_hij",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.beforeDeleteGrievance",
+    "zone" : 2,
+    "hash" : "644757ec",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-update_grievance_status_history_svc_noo" : {
+    "irId" : "hook-after-update_grievance_status_history_svc_noo",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.afterUpdateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "f1435c82",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:ctrl_update_user_profile_validation_wes" : {
+    "irId" : "ctrl_update_user_profile_validation_wes",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.updateUserProfile",
+    "zone" : 1,
+    "hash" : "35f3397a",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-update_user_ctrl_068" : {
+    "irId" : "hook-before-update_user_ctrl_068",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.beforeUpdateUser",
+    "zone" : 2,
+    "hash" : "8dd8d0db",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-create_user_svc_rh4" : {
+    "irId" : "hook-before-create_user_svc_rh4",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.beforeCreateUser",
+    "zone" : 2,
+    "hash" : "66fe3e01",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-update_grievance_attachment_ctrl_z1l" : {
+    "irId" : "hook-after-update_grievance_attachment_ctrl_z1l",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.afterUpdateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "c2125133",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:list_user_grievances_ctrl_37y" : {
+    "irId" : "list_user_grievances_ctrl_37y",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.listMyGrievances",
+    "zone" : 1,
+    "hash" : "0af38e28",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:delete_grievance_status_history_svc_77d" : {
+    "irId" : "delete_grievance_status_history_svc_77d",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.deleteGrievanceStatusHistory",
+    "zone" : 1,
+    "hash" : "5fb12f12",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-create_grievance_svc_bhp" : {
+    "irId" : "hook-before-create_grievance_svc_bhp",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.beforeCreateGrievance",
+    "zone" : 2,
+    "hash" : "2f91294e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-get_user_by_id_ctrl_6pf" : {
+    "irId" : "hook-after-get_user_by_id_ctrl_6pf",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.afterGetUserById",
+    "zone" : 2,
+    "hash" : "a50908aa",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-create_admin_svc_or7" : {
+    "irId" : "hook-after-create_admin_svc_or7",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.afterCreateAdmin",
+    "zone" : 2,
+    "hash" : "afc40a43",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-update_admin_svc_mr4" : {
+    "irId" : "hook-after-update_admin_svc_mr4",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.afterUpdateAdmin",
+    "zone" : 2,
+    "hash" : "7ca1aeb2",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:get_grievance_by_id_ctrl_8ra" : {
+    "irId" : "get_grievance_by_id_ctrl_8ra",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.getGrievanceById",
+    "zone" : 1,
+    "hash" : "1829bc20",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:get_admin_by_id_svc_rpv" : {
+    "irId" : "get_admin_by_id_svc_rpv",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.getAdminById",
+    "zone" : 1,
+    "hash" : "0d04e968",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-create_grievance_status_history_ctrl_n7s" : {
+    "irId" : "hook-before-create_grievance_status_history_ctrl_n7s",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.beforeCreateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "0463baea",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-list_grievance_attachments_svc_is4" : {
+    "irId" : "hook-before-list_grievance_attachments_svc_is4",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.beforeListGrievanceAttachments",
+    "zone" : 2,
+    "hash" : "67b2b052",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:list_grievance_attachments_ctrl_zhe" : {
+    "irId" : "list_grievance_attachments_ctrl_zhe",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.listGrievanceAttachments",
+    "zone" : 1,
+    "hash" : "20dc482e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-delete_grievance_status_history_ctrl_a74" : {
+    "irId" : "hook-before-delete_grievance_status_history_ctrl_a74",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.beforeDeleteGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "637318e6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-get_grievance_status_history_by_id_ctrl_qvt" : {
+    "irId" : "hook-before-get_grievance_status_history_by_id_ctrl_qvt",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.beforeGetGrievanceStatusHistoryById",
+    "zone" : 2,
+    "hash" : "d9747ef8",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-create_user_ctrl_ja4" : {
+    "irId" : "hook-before-create_user_ctrl_ja4",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.beforeCreateUser",
+    "zone" : 2,
+    "hash" : "bee234fc",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "repository:u_exists_by_email_check_chi" : {
+    "irId" : "u_exists_by_email_check_chi",
+    "file" : "src/main/java/com/example/app/repository/UserRepository.java",
+    "symbol" : "UserRepository.existsByEmail",
+    "zone" : 1,
+    "hash" : "5ab59ec5",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:update_user_ctrl_068" : {
+    "irId" : "update_user_ctrl_068",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.updateUser",
+    "zone" : 1,
+    "hash" : "18e68ece",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-list_admins_svc_41m" : {
+    "irId" : "hook-after-list_admins_svc_41m",
+    "file" : "src/main/java/com/example/app/service/AdminService.java",
+    "symbol" : "AdminService.afterListAdmins",
+    "zone" : 2,
+    "hash" : "fb1034cd",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-update_grievance_attachment_svc_980" : {
+    "irId" : "hook-after-update_grievance_attachment_svc_980",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.afterUpdateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "7bcf62c6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:create_grievance_status_history_ctrl_n7s" : {
+    "irId" : "create_grievance_status_history_ctrl_n7s",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.createGrievanceStatusHistory",
+    "zone" : 1,
+    "hash" : "6192a62c",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-get_grievance_status_history_by_id_svc_ycy" : {
+    "irId" : "hook-after-get_grievance_status_history_by_id_svc_ycy",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.afterGetGrievanceStatusHistoryById",
+    "zone" : 2,
+    "hash" : "0efc164e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-update_grievance_attachment_ctrl_z1l" : {
+    "irId" : "hook-before-update_grievance_attachment_ctrl_z1l",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.beforeUpdateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "db7e8697",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-create_grievance_ctrl_sbv" : {
+    "irId" : "hook-after-create_grievance_ctrl_sbv",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.afterCreateGrievance",
+    "zone" : 2,
+    "hash" : "238b5b49",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-list_users_svc_s6j" : {
+    "irId" : "hook-before-list_users_svc_s6j",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.beforeListUsers",
+    "zone" : 2,
+    "hash" : "1cc83613",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-create_grievance_ctrl_sbv" : {
+    "irId" : "hook-before-create_grievance_ctrl_sbv",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.beforeCreateGrievance",
+    "zone" : 2,
+    "hash" : "c5c6ea07",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-delete_user_svc_m56" : {
+    "irId" : "hook-after-delete_user_svc_m56",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.afterDeleteUser",
+    "zone" : 2,
+    "hash" : "7f8f45f2",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-create_user_ctrl_ja4" : {
+    "irId" : "hook-after-create_user_ctrl_ja4",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.afterCreateUser",
+    "zone" : 2,
+    "hash" : "f999a4d2",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:svc_update_grievance_with_resolution_9fq" : {
+    "irId" : "svc_update_grievance_with_resolution_9fq",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.updateGrievanceWithResolution",
+    "zone" : 1,
+    "hash" : "5343e928",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:delete_user_ctrl_ea2" : {
+    "irId" : "delete_user_ctrl_ea2",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.deleteUser",
+    "zone" : 1,
+    "hash" : "1e15fa78",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-get_grievance_status_history_by_id_ctrl_qvt" : {
+    "irId" : "hook-after-get_grievance_status_history_by_id_ctrl_qvt",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.afterGetGrievanceStatusHistoryById",
+    "zone" : 2,
+    "hash" : "aaa1a83c",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-update_user_svc_e00" : {
+    "irId" : "hook-after-update_user_svc_e00",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.afterUpdateUser",
+    "zone" : 2,
+    "hash" : "0a78104c",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:get_grievance_attachment_by_id_svc_sk8" : {
+    "irId" : "get_grievance_attachment_by_id_svc_sk8",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.getGrievanceAttachmentById",
+    "zone" : 1,
+    "hash" : "b80c7c4c",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-delete_user_ctrl_ea2" : {
+    "irId" : "hook-after-delete_user_ctrl_ea2",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.afterDeleteUser",
+    "zone" : 2,
+    "hash" : "6b1b0b4c",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:delete_grievance_status_history_ctrl_a74" : {
+    "irId" : "delete_grievance_status_history_ctrl_a74",
+    "file" : "src/main/java/com/example/app/controller/GrievanceStatusHistoryController.java",
+    "symbol" : "GrievanceStatusHistoryController.deleteGrievanceStatusHistory",
+    "zone" : 1,
+    "hash" : "8974ee66",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:delete_grievance_ctrl_v02" : {
+    "irId" : "delete_grievance_ctrl_v02",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.deleteGrievance",
+    "zone" : 1,
+    "hash" : "dd0e859f",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-update_admin_ctrl_hhs" : {
+    "irId" : "hook-after-update_admin_ctrl_hhs",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.afterUpdateAdmin",
+    "zone" : 2,
+    "hash" : "7d5af502",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:svc_search_filter_grievances_001_t7k" : {
+    "irId" : "svc_search_filter_grievances_001_t7k",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.searchAndFilterGrievances",
+    "zone" : 1,
+    "hash" : "20cbce98",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:update_grievance_svc_px2" : {
+    "irId" : "update_grievance_svc_px2",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.updateGrievance",
+    "zone" : 1,
+    "hash" : "5f12bb84",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-list_grievances_ctrl_tyj" : {
+    "irId" : "hook-before-list_grievances_ctrl_tyj",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.beforeListGrievances",
+    "zone" : 2,
+    "hash" : "19f80653",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-list_grievance_attachments_ctrl_zhe" : {
+    "irId" : "hook-after-list_grievance_attachments_ctrl_zhe",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.afterListGrievanceAttachments",
+    "zone" : 2,
+    "hash" : "8397d1a0",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-update_grievance_status_history_svc_noo" : {
+    "irId" : "hook-before-update_grievance_status_history_svc_noo",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.beforeUpdateGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "c64896ab",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-list_admins_ctrl_vc2" : {
+    "irId" : "hook-after-list_admins_ctrl_vc2",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.afterListAdmins",
+    "zone" : 2,
+    "hash" : "fb1034cd",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "repository:u_exists_by_email_bto" : {
+    "irId" : "u_exists_by_email_bto",
+    "file" : "src/main/java/com/example/app/repository/UserRepository.java",
+    "symbol" : "UserRepository.existsByEmail",
+    "zone" : 1,
+    "hash" : "3880e5d4",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:create_grievance_status_history_svc_rny" : {
+    "irId" : "create_grievance_status_history_svc_rny",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.createGrievanceStatusHistory",
+    "zone" : 1,
+    "hash" : "a7b30b7d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "repository:g_find_by_user_id_pd0" : {
+    "irId" : "g_find_by_user_id_pd0",
+    "file" : "src/main/java/com/example/app/repository/GrievanceRepository.java",
+    "symbol" : "GrievanceRepository.findByUserId",
+    "zone" : 1,
+    "hash" : "43fc2e61",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-create_admin_ctrl_i3a" : {
+    "irId" : "hook-before-create_admin_ctrl_i3a",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.beforeCreateAdmin",
+    "zone" : 2,
+    "hash" : "ae877b42",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:create_grievance_svc_bhp" : {
+    "irId" : "create_grievance_svc_bhp",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.createGrievance",
+    "zone" : 1,
+    "hash" : "66cf02f6",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:create_grievance_attachment_ctrl_0h9" : {
+    "irId" : "create_grievance_attachment_ctrl_0h9",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.createGrievanceAttachment",
+    "zone" : 1,
+    "hash" : "abdfc02e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:svc_get_dashboard_summary_t91" : {
+    "irId" : "svc_get_dashboard_summary_t91",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.getDashboardSummary",
+    "zone" : 1,
+    "hash" : "934a51c2",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:retrieve_grievance_dashboard_statistics_i49" : {
+    "irId" : "retrieve_grievance_dashboard_statistics_i49",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.getGrievanceDashboardStatistics",
+    "zone" : 1,
+    "hash" : "72218d33",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-after-list_users_ctrl_5bh" : {
+    "irId" : "hook-after-list_users_ctrl_5bh",
+    "file" : "src/main/java/com/example/app/controller/UserController.java",
+    "symbol" : "UserController.afterListUsers",
+    "zone" : 2,
+    "hash" : "b734b73a",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:get_grievance_attachment_by_id_ctrl_dl4" : {
+    "irId" : "get_grievance_attachment_by_id_ctrl_dl4",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.getGrievanceAttachmentById",
+    "zone" : 1,
+    "hash" : "0956536e",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:update_grievance_attachment_ctrl_z1l" : {
+    "irId" : "update_grievance_attachment_ctrl_z1l",
+    "file" : "src/main/java/com/example/app/controller/GrievanceAttachmentController.java",
+    "symbol" : "GrievanceAttachmentController.updateGrievanceAttachment",
+    "zone" : 1,
+    "hash" : "7fccfd2d",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-create_user_svc_rh4" : {
+    "irId" : "hook-after-create_user_svc_rh4",
+    "file" : "src/main/java/com/example/app/service/UserService.java",
+    "symbol" : "UserService.afterCreateUser",
+    "zone" : 2,
+    "hash" : "154ef650",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-create_grievance_attachment_svc_51f" : {
+    "irId" : "hook-after-create_grievance_attachment_svc_51f",
+    "file" : "src/main/java/com/example/app/service/GrievanceAttachmentService.java",
+    "symbol" : "GrievanceAttachmentService.afterCreateGrievanceAttachment",
+    "zone" : 2,
+    "hash" : "1917e3ab",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-before-list_grievances_svc_cz9" : {
+    "irId" : "hook-before-list_grievances_svc_cz9",
+    "file" : "src/main/java/com/example/app/service/GrievanceService.java",
+    "symbol" : "GrievanceService.beforeListGrievances",
+    "zone" : 2,
+    "hash" : "19f80653",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:hook-before-get_admin_by_id_ctrl_fs7" : {
+    "irId" : "hook-before-get_admin_by_id_ctrl_fs7",
+    "file" : "src/main/java/com/example/app/controller/AdminController.java",
+    "symbol" : "AdminController.beforeGetAdminById",
+    "zone" : 2,
+    "hash" : "3cbf1423",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "service:hook-after-delete_grievance_status_history_svc_77d" : {
+    "irId" : "hook-after-delete_grievance_status_history_svc_77d",
+    "file" : "src/main/java/com/example/app/service/GrievanceStatusHistoryService.java",
+    "symbol" : "GrievanceStatusHistoryService.afterDeleteGrievanceStatusHistory",
+    "zone" : 2,
+    "hash" : "10ed90f5",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  },
+  "controller:ctrl_submit_grievance_with_attachments_f53" : {
+    "irId" : "ctrl_submit_grievance_with_attachments_f53",
+    "file" : "src/main/java/com/example/app/controller/GrievanceController.java",
+    "symbol" : "GrievanceController.submitGrievanceWithAttachments",
+    "zone" : 1,
+    "hash" : "3c5bad98",
+    "hashSchema" : "SHA-256-normalized-ast-v1",
+    "irVersion" : "1.0"
+  }
+}
